@@ -11,9 +11,9 @@
 body{
     background-image: url("blue.jpg");
     background-repeat: no-repeat;
-    width: 50%;
+    width: 40%;
     height: 300px;
-    
+
 }
 
 start of navigation bar
@@ -76,3 +76,4 @@ start of navigation bar
 .navbar ul li:hover::after{
     width: 90%;
 }
+
